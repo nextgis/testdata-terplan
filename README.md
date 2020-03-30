@@ -7,4 +7,5 @@
 
 Подробнее
 
-https://docs.nextgis.ru/docs_ngqgis/source/territory_plan_styler.html
+* Документация: https://docs.nextgis.ru/docs_ngqgis/source/territory_plan_styler.html
+* Официальный релиз: https://nextgis.ru/blog/terplan/
